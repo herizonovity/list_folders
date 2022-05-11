@@ -1,0 +1,106 @@
+{
+    "entries": [
+        {
+            ".tag": "folder",
+            "name": "Root_1",
+            "path_lower": "/root_1",
+            "path_display": "/Root_1",
+            "id": "id:S9c-eujiGIoAAAAAAAAACw"
+        },
+        {
+            ".tag": "folder",
+            "name": "root 2",
+            "path_lower": "/root 2",
+            "path_display": "/root 2",
+            "id": "id:S9c-eujiGIoAAAAAAAAADA"
+        },
+        {
+            ".tag": "folder",
+            "name": "Root_1_1",
+            "path_lower": "/root_1/root_1_1",
+            "path_display": "/Root_1/Root_1_1",
+            "id": "id:S9c-eujiGIoAAAAAAAAADQ"
+        },
+        {
+            ".tag": "folder",
+            "name": "répertoire de données",
+            "path_lower": "/répertoire de données",
+            "path_display": "/répertoire de données",
+            "id": "id:S9c-eujiGIoAAAAAAAAADg"
+        },
+        {
+            ".tag": "folder",
+            "name": "HW's shared workspace",
+            "path_lower": "/hw's shared workspace",
+            "path_display": "/HW's shared workspace",
+            "id": "id:S9c-eujiGIoAAAAAAAAAFA"
+        },
+        {
+            ".tag": "file",
+            "name": "test.txt",
+            "path_lower": "/test.txt",
+            "path_display": "/test.txt",
+            "id": "id:S9c-eujiGIoAAAAAAAAACg",
+            "client_modified": "2022-01-21T15:19:37Z",
+            "server_modified": "2022-01-21T15:19:37Z",
+            "rev": "5d61925a99bf88ca4cb21",
+            "size": 4,
+            "is_downloadable": true,
+            "content_hash": "954d5a49fd70d9b8bcdb35d252267829957f7ef7fa6c74f88419bdc5e82209f4"
+        },
+        {
+            ".tag": "file",
+            "name": "test_2.txt",
+            "path_lower": "/root_1/root_1_1/test_2.txt",
+            "path_display": "/Root_1/Root_1_1/test_2.txt",
+            "id": "id:S9c-eujiGIoAAAAAAAAAEA",
+            "client_modified": "2022-01-24T09:50:48Z",
+            "server_modified": "2022-01-24T09:51:24Z",
+            "rev": "5d650e96042488ca4cb21",
+            "size": 4,
+            "is_downloadable": true,
+            "content_hash": "954d5a49fd70d9b8bcdb35d252267829957f7ef7fa6c74f88419bdc5e82209f4"
+        },
+        {
+            ".tag": "file",
+            "name": "test_3.txt",
+            "path_lower": "/root_1/root_1_1/test_3.txt",
+            "path_display": "/Root_1/Root_1_1/test_3.txt",
+            "id": "id:S9c-eujiGIoAAAAAAAAAEQ",
+            "client_modified": "2022-01-24T09:50:48Z",
+            "server_modified": "2022-01-24T09:51:46Z",
+            "rev": "5d650eaa75a648ca4cb21",
+            "size": 4,
+            "is_downloadable": true,
+            "content_hash": "954d5a49fd70d9b8bcdb35d252267829957f7ef7fa6c74f88419bdc5e82209f4"
+        },
+        {
+            ".tag": "file",
+            "name": "test_1.txt",
+            "path_lower": "/root_1/root_1_1/test_1.txt",
+            "path_display": "/Root_1/Root_1_1/test_1.txt",
+            "id": "id:S9c-eujiGIoAAAAAAAAAEg",
+            "client_modified": "2022-01-24T09:50:48Z",
+            "server_modified": "2022-01-24T09:52:15Z",
+            "rev": "5d650ec6c8b6d8ca4cb21",
+            "size": 4,
+            "is_downloadable": true,
+            "content_hash": "954d5a49fd70d9b8bcdb35d252267829957f7ef7fa6c74f88419bdc5e82209f4"
+        },
+        {
+            ".tag": "file",
+            "name": "test_4.txt",
+            "path_lower": "/root_1/root_1_1/test_4.txt",
+            "path_display": "/Root_1/Root_1_1/test_4.txt",
+            "id": "id:S9c-eujiGIoAAAAAAAAAEw",
+            "client_modified": "2022-01-24T09:50:48Z",
+            "server_modified": "2022-01-24T10:06:01Z",
+            "rev": "5d6511da1cd318ca4cb21",
+            "size": 4,
+            "is_downloadable": true,
+            "content_hash": "954d5a49fd70d9b8bcdb35d252267829957f7ef7fa6c74f88419bdc5e82209f4"
+        }
+    ],
+    "cursor": "AAFNhx6Lm86JSIRQdFDhpXS3loNvGgrSPMj1Linb9uChnFEI6_oMo08-TS-6EqsoulGFayw2OPVUH1hAzzefdCEcJKfyB97rP2wowDxZf60mUCAr-FZ5CKz_MUh-w-WvolAScvw8dWZdrvtX8Dz0bBANga4mJRXbF-GXeAp6lQ9Vp50LaKcrX61i0uh3BnBYZMU",
+    "has_more": false
+}
